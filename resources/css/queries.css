@@ -4,7 +4,11 @@
 /*-- Big tablet to 1023px to 1200px ---*/
 @media only screen and (max-width: 1200px){
 
+<<<<<<< HEAD
   .gontor-text-box{
+=======
+.gontor-text-box{
+>>>>>>> refs/remotes/origin/master
     width: 100%;
     padding: 0 2%;
     left: 25%;
@@ -12,11 +16,24 @@
 
   .row{padding: 0 2%;}
 
+<<<<<<< HEAD
+=======
+	.social-links {
+    float: right;
+		margin-left: 200px;
+  }
+
+
+>>>>>>> refs/remotes/origin/master
 }
 
 /*-- Small tablet to Big tablet 767px to 1023px ---*/
 @media only screen and (max-width: 1023px){
+<<<<<<< HEAD
   body{font-size: 18px;}
+=======
+	body{font-size: 18px;}
+>>>>>>> refs/remotes/origin/master
   section{padding: 60px 0;}
 
 
@@ -24,11 +41,21 @@
     top: 35%;
     left: 20%;
   }
+<<<<<<< HEAD
+=======
+	
+	 h4{
+    font-size: 45%;
+    font-weight: 400;
+  }
+
+>>>>>>> refs/remotes/origin/master
 
   .social-links {
     float: right;
     margin-left: 100px;
     }
+<<<<<<< HEAD
 
 
 }
@@ -37,6 +64,10 @@
 
 
 
+=======
+}
+
+>>>>>>> refs/remotes/origin/master
 /*--Small phones to small tablet  480px to 767px ---*/
 @media only screen and (max-width: 767px){
 
@@ -192,7 +223,11 @@ footer{
     letter-spacing:1px;
   }
   .icon-small{
+<<<<<<< HEAD
     width: 20px;
+=======
+    width: 30px;
+>>>>>>> refs/remotes/origin/master
   }
   .social-links { 
     margin-top:-15px;   
